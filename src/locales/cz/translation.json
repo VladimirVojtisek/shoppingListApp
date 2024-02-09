@@ -1,0 +1,29 @@
+{
+    "switch_to_english": "Přepnout do angličtiny",
+    "switch_to_czech": "Přepnout do češtiny",
+    "see_archived_lists": "Zobrazit archivované seznamy",
+    "see_current_lists": "Ukaž akt. seznamy",
+    "shopping_list_header": "Nákupní seznam",
+    "your_lists": "Vaše seznamy",
+    "lists_youare_member_of": "Seznamy jejichž jste členem",
+    "items_in_the_selected_list": "Položky v zvoleném seznamu",
+    "members_of_the_selected_list": "Položky v zvoleném seznamu",
+    "switch_to_dark_mode": "Přepnout do tmavého režimu",
+    "switch_to_light_mode": "Přepnout do světlého režimu",
+    "archived_lists": "Archivované seznamy",
+    "last_connection_state": "Poslední stav",
+    "data_acquired_ok": "Data OK",
+    "delete_btn": "Smaž",
+    "delete_usr_btn": "Smaž uživatele",
+    "save_all_member_changes_btn": "Ulož všechny změny členů",
+    "set_amount_lbl": "Nastav množství",
+    "what_unit_lbl": "Jaká jednotka",
+    "add_new_item_lbl": "Přidej novou položku",
+    "all_flds_filled_lbl": "Všechna pole musí být vyplněna",
+    "save_all_item_chgs_btn": "Ulož všechny změny položek",
+    "mark_done_btn": "Označ jako hotové",
+    "add_new_list_btn": "Přidej nový seznam",
+    "durwt_dlt_list_lbl": "Chcete opravdu smazat tento seznam?"
+
+  }
+  

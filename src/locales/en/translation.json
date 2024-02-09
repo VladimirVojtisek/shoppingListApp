@@ -1,0 +1,29 @@
+{
+    "switch_to_english": "Switch to English",
+    "switch_to_czech": "Switch to Czech",
+    "see_archived_lists": "See archived lists",
+    "see_current_lists": "See current lists",
+    "shopping_list_header": "Shopping list",
+    "your_lists": "Your lists",
+    "lists_youare_member_of": "Lists you're a member of",
+    "items_in_the_selected_list": "Items in the selected list",
+    "members_of_the_selected_list": "Members of the selected list",
+    "switch_to_dark_mode": "Switch to dark mode",
+    "switch_to_light_mode": "Switch to light mode",
+    "archived_lists": "Archived lists",
+    "last_connection_state": "Last state",
+    "data_acquired_ok": "Data OK",
+    "delete_btn": "Delete",
+    "delete_usr_btn": "Delete user",
+    "save_all_member_changes_btn": "Save all member changes",
+    "add_new_item_lbl": "Add new item",
+    "set_amount_lbl": "Set amount",
+    "what_unit_lbl": "What unit",
+    "all_flds_filled_lbl": "All fields must be filled",
+    "save_all_item_chgs_btn": "Save all item changes",
+    "mark_done_btn": "Mark done",
+    "add_new_list_btn": "Add a new list",
+    "durwt_dlt_list_lbl": "Do you really want to delete the list"
+    
+}
+  

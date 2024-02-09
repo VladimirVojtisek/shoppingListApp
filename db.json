@@ -1,0 +1,356 @@
+{
+  "otherUsers": [
+    {
+      "id": "cnwiu8o29v798203p2r323o",
+      "name": "Jirka"
+    },
+    {
+      "id": "fiho93f89013pjr322fieo",
+      "name": "Honza"
+    },
+    {
+      "id": "cno31908f7248ft54t413o24i",
+      "name": "Pepa"
+    },
+    {
+      "id": "fkno3iu4o29089gfpoiruienk",
+      "name": "Franta"
+    }
+  ],
+  "initLists": [
+    {
+      "id": "jnscdjbvuycwio32478f74oiw",
+      "name": "Nakup na dovolenou",
+      "owner": "cnwiu8o29v798203p2r323o",
+      "members": [
+        "jncsbjbshoidcug6879coi",
+        "fiho93f89013pjr322fieo",
+        "cno31908f7248ft54t413o24i",
+        "fkno3iu4o29089gfpoiruienk"
+      ],
+      "archived": false
+    },
+    {
+      "id": "hcsdjbnki3uy2438792o",
+      "owner": "cnwiu8o29v798203p2r323o",
+      "name": "Nakup na lyzak",
+      "archived": false,
+      "members": [
+        "fiho93f89013pjr322fieo",
+        "cno31908f7248ft54t413o24i",
+        "fkno3iu4o29089gfpoiruienk"
+      ]
+    },
+    {
+      "id": "9f1d477420a1e4bddbd7b4eeba7e8c5644aaa8052c6aa11790b89f7131066bbd",
+      "owner": "jncsbjbshoidcug6879coi",
+      "name": "Nakup na chatu",
+      "archived": false,
+      "members": [
+        "fkno3iu4o29089gfpoiruienk",
+        "fkno3iu4o29089gfpoiruienk",
+        "fkno3iu4o29089gfpoiruienk"
+      ]
+    },
+    {
+      "id": "757cb68a42aa2012d74442cd93ca7bd0f013b1a4b7061edde196523c5eb5d977",
+      "owner": "jncsbjbshoidcug6879coi",
+      "name": "Nakup na lyze",
+      "archived": false,
+      "members": [
+        "cno31908f7248ft54t413o24i",
+        "fkno3iu4o29089gfpoiruienk"
+      ]
+    },
+    {
+      "id": "b5129968f221b6898a588f545037613455518c5f093adccf9fe6db1630f49a70",
+      "name": "Hudebni potreby",
+      "owner": "jncsbjbshoidcug6879coi",
+      "members": [
+        "cno31908f7248ft54t413o24i",
+        "fkno3iu4o29089gfpoiruienk"
+      ],
+      "archived": false
+    },
+    {
+      "id": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "name": "Prastary nakup",
+      "owner": "jncsbjbshoidcug6879coi",
+      "members": [],
+      "archived": false
+    },
+    {
+      "id": "60a1ec1d6f64e0453ec7a15004085ea37ad81b8a0fdab87eac13c73f9d3e05b0",
+      "name": "Novy list",
+      "owner": "jncsbjbshoidcug6879coi",
+      "members": [],
+      "archived": false
+    }
+  ],
+  "initItems": [
+    {
+      "id": "csknio34897828jp",
+      "listId": "jnscdjbvuycwio32478f74oiw",
+      "name": "Bratwurst",
+      "units": "kgs",
+      "amount": "1",
+      "done": false
+    },
+    {
+      "id": "fo40f8909p423i4",
+      "listId": "jnscdjbvuycwio32478f74oiw",
+      "name": "Artichokes",
+      "units": "pcs",
+      "amount": "10",
+      "done": false
+    },
+    {
+      "id": "vsjvnkjsdhfow38u29083u",
+      "listId": "fhjskcniuyrech4g3489riueyu",
+      "name": "Flour",
+      "units": "kgs",
+      "amount": "5",
+      "done": true
+    },
+    {
+      "id": "ervbio3v5983",
+      "listId": "hcsdjbnki3uy2438792o",
+      "name": "Salt",
+      "units": "kgs",
+      "amount": "1",
+      "done": false
+    },
+    {
+      "id": "vdkjslc;opiiu4y5tro",
+      "listId": "hcsdjbnki3uy2438792o",
+      "name": "Toilet paper",
+      "units": "pcs",
+      "amount": "3",
+      "done": false
+    },
+    {
+      "id": "356afe55b3fc20d63298cfbb4835014954d8ec4c5711fa112dd7bc37d99e0fc3",
+      "name": "ryc",
+      "amount": "1",
+      "units": "ks",
+      "listId": "9f1d477420a1e4bddbd7b4eeba7e8c5644aaa8052c6aa11790b89f7131066bbd",
+      "done": true
+    },
+    {
+      "id": "dd3882bee87b7012025e0ca180a994c4e8a07bfe6ad8ebfcd1023e1936c585fe",
+      "name": "lopata",
+      "amount": "1",
+      "units": "ks",
+      "listId": "9f1d477420a1e4bddbd7b4eeba7e8c5644aaa8052c6aa11790b89f7131066bbd",
+      "done": false
+    },
+    {
+      "id": "e231323222d1d89a7475a085fe007a778025d7b027a1754d98ceadeaf7964fca",
+      "name": "pila",
+      "amount": "1",
+      "units": "ks",
+      "listId": "9f1d477420a1e4bddbd7b4eeba7e8c5644aaa8052c6aa11790b89f7131066bbd",
+      "done": false
+    },
+    {
+      "id": "f7ed8b815432f6cd53a90e1dc8716142c4057dcd79e24fb59cc8ecdb1e6e9423",
+      "name": "bunda",
+      "amount": "1",
+      "units": "ks",
+      "listId": "757cb68a42aa2012d74442cd93ca7bd0f013b1a4b7061edde196523c5eb5d977",
+      "done": false
+    },
+    {
+      "id": "fb029fdf3cb3823b0a1cfe0fceb6aae942d1521d3ceaef3d22ef113b1809faf8",
+      "name": "svetr",
+      "amount": "1",
+      "units": "ks",
+      "listId": "757cb68a42aa2012d74442cd93ca7bd0f013b1a4b7061edde196523c5eb5d977",
+      "done": false
+    },
+    {
+      "id": "14e8d454e605168b54ca18e3453d36601c5787880ecacdc70eb0cdbe6a4c30e4",
+      "name": "kulich",
+      "amount": "1",
+      "units": "ks",
+      "listId": "757cb68a42aa2012d74442cd93ca7bd0f013b1a4b7061edde196523c5eb5d977",
+      "done": false
+    },
+    {
+      "id": "d72924d00348a22d174fb8f7851cdcc580fde56691f96b2c97fe2314548fc373",
+      "name": "rum",
+      "amount": "1",
+      "units": "ks",
+      "listId": "757cb68a42aa2012d74442cd93ca7bd0f013b1a4b7061edde196523c5eb5d977",
+      "done": false
+    },
+    {
+      "id": "a51a825fd4c483137163fbf5837d07f2155931e9f9200975224b7fe09204d208",
+      "name": "struny",
+      "amount": "1",
+      "units": "balik",
+      "listId": "b5129968f221b6898a588f545037613455518c5f093adccf9fe6db1630f49a70",
+      "done": true
+    },
+    {
+      "id": "f466d72f39000a7a47f9b4014359e206c5334b25e3deccb09e4bd6806fcc1a24",
+      "name": "fletna",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b5129968f221b6898a588f545037613455518c5f093adccf9fe6db1630f49a70",
+      "done": false
+    },
+    {
+      "id": "3f5a9d09640df2acbe4f0d180d791889f48c1fc39b5fc931e284c8de98882c8e",
+      "name": "kytara",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b5129968f221b6898a588f545037613455518c5f093adccf9fe6db1630f49a70",
+      "done": false
+    },
+    {
+      "id": "feaf0d085b56195967767ae189641c5a45b51f01326f99d9ef04c6f68fd5ccde",
+      "name": "TV",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "feaf0d085b56195967767ae189641c5a45b51f01326f99d9ef04c6f68fd5ccde",
+      "name": "TV",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "c4d44060c0fd2a71f41721fb2ef93cc9bb0fc3afc23e85d515728c4e0ec1d525",
+      "name": "Kamna",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "feaf0d085b56195967767ae189641c5a45b51f01326f99d9ef04c6f68fd5ccde",
+      "name": "TV",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "feaf0d085b56195967767ae189641c5a45b51f01326f99d9ef04c6f68fd5ccde",
+      "name": "TV",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "c4d44060c0fd2a71f41721fb2ef93cc9bb0fc3afc23e85d515728c4e0ec1d525",
+      "name": "Kamna",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "50ed81ad78ef82f087239ae910007c2940e3aa9c0f0c822211b5501667abbbf1",
+      "name": "Kamna",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "feaf0d085b56195967767ae189641c5a45b51f01326f99d9ef04c6f68fd5ccde",
+      "name": "TV",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "feaf0d085b56195967767ae189641c5a45b51f01326f99d9ef04c6f68fd5ccde",
+      "name": "TV",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "c4d44060c0fd2a71f41721fb2ef93cc9bb0fc3afc23e85d515728c4e0ec1d525",
+      "name": "Kamna",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "feaf0d085b56195967767ae189641c5a45b51f01326f99d9ef04c6f68fd5ccde",
+      "name": "TV",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "feaf0d085b56195967767ae189641c5a45b51f01326f99d9ef04c6f68fd5ccde",
+      "name": "TV",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "c4d44060c0fd2a71f41721fb2ef93cc9bb0fc3afc23e85d515728c4e0ec1d525",
+      "name": "Kamna",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "50ed81ad78ef82f087239ae910007c2940e3aa9c0f0c822211b5501667abbbf1",
+      "name": "Kamna",
+      "amount": "1",
+      "units": "ks",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "b09fb5d5dadae6c237192f4f4c23e3d4cea1e5e876bec610249ee20c21298f19",
+      "name": "Holinky",
+      "amount": "1",
+      "units": "par",
+      "listId": "b1852a415e3033d1f677f5fef33ab52315051c5144b452349866e5d4eedd0013",
+      "done": false
+    },
+    {
+      "id": "20384582bd3c276e0931952046d95da9b70ff8bcf436be5b28499d9f13994361",
+      "name": "a",
+      "amount": "1",
+      "units": "u",
+      "listId": "60a1ec1d6f64e0453ec7a15004085ea37ad81b8a0fdab87eac13c73f9d3e05b0",
+      "done": false
+    },
+    {
+      "id": "4475ae11f947655f68b880df11efe138a53c13e263e781998b3f3e3b129c5869",
+      "name": "a",
+      "amount": "1",
+      "units": "u",
+      "listId": "60a1ec1d6f64e0453ec7a15004085ea37ad81b8a0fdab87eac13c73f9d3e05b0",
+      "done": false
+    },
+    {
+      "id": "8efb116fa523ff46100052bcee213e9f9381668c78a837edb69b5291d14f7e6e",
+      "name": "a",
+      "amount": "1",
+      "units": "u",
+      "listId": "60a1ec1d6f64e0453ec7a15004085ea37ad81b8a0fdab87eac13c73f9d3e05b0",
+      "done": false
+    }
+  ]
+}
